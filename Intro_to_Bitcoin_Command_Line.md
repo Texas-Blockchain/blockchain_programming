@@ -219,7 +219,7 @@ bc getwalletinfo
 ## Generate a wallet
 Before we can do anything with 
 ```BASH
-$ bitcoin-cli getnewaddress "" legacy
+$ bc getnewaddress "" legacy
 2Mz6bRRUV5kfDUv87FFaPAgqMECDuMQn9ta
 ```
 Now that you have a wallet, you will need to get an address from your wallet.  The wallet in this case is a hierarchical deterministic (HD) wallet which you can find out more about by reading Bitcoin Improvement Proposal (BIP) 32 https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki . 

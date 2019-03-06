@@ -1,6 +1,6 @@
 # Blockchain programming and smart contracts
 
-This is a series of assignments which are used for EE 382V INTRODUCTION TO BLOCKCHAIN/SMART CONTRACTS & MIS 382N EMERGING TECHNOLOGIES.  These assignments will use the bitcoin core implmentation of the bitcoin protocal.  Students will become familiar with how to use bitcoind, bitcoin-cli and btcdeb.  This will require familiarity with command line tools, access to either a Linux or MacOS machine, as well as 20 GB of free disk space.
+This is a series of assignments which are used for EE 382V INTRODUCTION TO BLOCKCHAIN/SMART CONTRACTS & MIS 382N EMERGING TECHNOLOGIES (as adapted for EE 179K).  These assignments will use the bitcoin core implmentation of the bitcoin protocal.  Students will become familiar with how to use bitcoind, bitcoin-cli and btcdeb.  This will require familiarity with command line tools, access to either a Linux or MacOS machine, as well as 20 GB of free disk space.
 
 # Assignment - Intro to command line bitcoin
 
